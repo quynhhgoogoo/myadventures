@@ -108,8 +108,8 @@ var simplemaps_worldmap_mapdata = {
         },
         AT: {
             name: "Austria",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -129,8 +129,8 @@ var simplemaps_worldmap_mapdata = {
         },
         BE: {
             name: "Belgium",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -241,8 +241,8 @@ var simplemaps_worldmap_mapdata = {
         },
         CH: {
             name: "Switzerland",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -311,8 +311,8 @@ var simplemaps_worldmap_mapdata = {
         },
         CZ: {
             name: "Czech Republic",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -507,8 +507,8 @@ var simplemaps_worldmap_mapdata = {
         },
         HU: {
             name: "Hungary",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -564,7 +564,7 @@ var simplemaps_worldmap_mapdata = {
         IT: {
             name: "Italy",
             description: "Visited",
-            color: "#A664228",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -689,8 +689,8 @@ var simplemaps_worldmap_mapdata = {
         },
         LU: {
             name: "Luxembourg",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -1018,8 +1018,8 @@ var simplemaps_worldmap_mapdata = {
         },
         SK: {
             name: "Slovakia",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -1214,8 +1214,8 @@ var simplemaps_worldmap_mapdata = {
         },
         GF: {
             name: "France",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -1228,8 +1228,8 @@ var simplemaps_worldmap_mapdata = {
         },
         ES: {
             name: "Spain",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -1375,8 +1375,8 @@ var simplemaps_worldmap_mapdata = {
         },
         MT: {
             name: "Malta",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
