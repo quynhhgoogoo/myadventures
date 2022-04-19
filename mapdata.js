@@ -1221,8 +1221,8 @@ var simplemaps_worldmap_mapdata = {
         },
         FR: {
             name: "France",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
