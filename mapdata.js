@@ -73,8 +73,8 @@ var simplemaps_worldmap_mapdata = {
         },
         AL: {
             name: "Albania",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -171,8 +171,8 @@ var simplemaps_worldmap_mapdata = {
         },
         BA: {
             name: "Bosnia and Herzegovina",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -493,8 +493,8 @@ var simplemaps_worldmap_mapdata = {
         },
         HR: {
             name: "Croatia",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
@@ -752,8 +752,8 @@ var simplemaps_worldmap_mapdata = {
         },
         ME: {
             name: "Montenegro",
-            description: "default",
-            color: "default",
+            description: "Visited",
+            color: "#664228",
             hover_color: "default",
             url: "default"
         },
